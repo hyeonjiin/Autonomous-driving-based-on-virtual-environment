@@ -1,6 +1,7 @@
 # Autonomous-driving-based-on-virtual-environment
 ## Simulation : morai simulation  
-track : 국민대학교 공학관 자율주행 트랙
+track : 국민대학교 공학관 자율주행 트랙  
+사용 센서 : GPS, 2D Lidar, IMU, Camera
 <table>
   <tr>
     <td><img src="/img/img (1).jpg" width = "600" height="500"/></td><td><img src="/img/img (2).jpg" width = "600" height="500"/></td>
